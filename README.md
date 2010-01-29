@@ -3,7 +3,7 @@ object system in Lisp. Apparently its not much, I'm far from an experienced
 Lisper (barely fluent, if that) and I got it done in ~50 lines. A testament to
 Lisp's flexibility and expressiveness.
 
-    CL-USER> (load "/home/fitzgen/dev/protolithic/protolith.lisp")
+    CL-USER> (load "/home/fitzgen/dev/protolith/protolith.lisp")
     T
     CL-USER> (in-package :protolith)
     #<PACKAGE "PROTOLITH">
